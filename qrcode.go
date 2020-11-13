@@ -1,4 +1,4 @@
-// go-qrcode
+	// go-qrcode
 // Copyright 2014 Tom Harwood
 
 /*
