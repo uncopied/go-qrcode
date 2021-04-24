@@ -2,3 +2,4 @@
 *.png
 *.directory
 qrcode/qrcode
+/vendor/

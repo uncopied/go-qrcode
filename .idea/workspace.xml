@@ -30,7 +30,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../Go" />
+  <component name="GOROOT" path="$USER_HOME$/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -63,9 +63,9 @@
       <module name="go-qrcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/qrcode/main.go" />
       <package value="github.com/skip2/go-qrcode" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/qrcode/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>

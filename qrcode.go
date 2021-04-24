@@ -55,7 +55,7 @@ import (
 	bitset "github.com/skip2/go-qrcode/bitset"
 	reedsolomon "github.com/skip2/go-qrcode/reedsolomon"
 	canvas "github.com/tdewolff/canvas"
-	"github.com/tdewolff/canvas/svg"
+	"github.com/tdewolff/canvas/renderers/svg"
 	"image"
 	"image/color"
 	"image/png"
